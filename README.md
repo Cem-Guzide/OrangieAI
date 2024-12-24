@@ -1,6 +1,6 @@
 ## Wallet Tracker, Trading, and Twitter Integration
 
-This Python program combines a wallet tracker, simulated trading functionality, and Twitter integration to fetch the latest tweets from a specified user. Designed for "Cupsey," this script is modular and can be adapted for other users or use cases.
+This Python program combines a wallet tracker, simulated trading functionality, and Twitter integration to fetch the latest tweets from a specified user. Designed for "Orangie," this script is modular and can be adapted for other users or use cases.
 
 ---
 
